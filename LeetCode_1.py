@@ -17,7 +17,7 @@ class Solution(object):
                 return result
             j+=1
         return result
-    
+
 if __name__ == '__main__':
     nums=[3,2,4]
     target=6
