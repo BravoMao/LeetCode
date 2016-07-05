@@ -20,6 +20,8 @@ class Solution(object):
 
 
 
+
+
 if __name__ == '__main__':
     secret="1122"
     guess="1222"
